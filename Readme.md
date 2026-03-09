@@ -1,4 +1,4 @@
-# Data Driven Product Launch Strategy for Coffee Shop Using Python & PowerBI
+# Data-Driven Product Launch Strategy for Coffee Shop Using Python & PowerBI
 ![for-coffeeshop-medium](https://github.com/NurulIlahiHusnah/Coffe_Shop_Transaction/assets/125198828/231797fc-7ab3-4a45-9d07-5e1dd6e3ee95)
 
 ## 📌 Executive Insight Summary
